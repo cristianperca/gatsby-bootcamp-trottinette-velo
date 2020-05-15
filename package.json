@@ -7,6 +7,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "env-cmd --file .env gatsby develop",
+    "deploy:github": "npm run build && node ./scripts/deploy-github",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
@@ -31,6 +32,7 @@
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",
+    "gh-pages": "^2.2.0",
     "prettier": "^1.19.1"
   },
   "repository": {
