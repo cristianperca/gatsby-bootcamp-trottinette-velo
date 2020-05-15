@@ -7,9 +7,9 @@ const IndexPage = () => {
   return (
     <div>
       <Layout>
-        <Head title="Home"/>
+        <Head title="Home" />
         <h1>Hello.</h1>
-        <h2>I am Cristian, an aspiring fullstack developer</h2>
+        <h2>I am Cristian, a hobby web developer</h2>
       </Layout>
     </div>
   )

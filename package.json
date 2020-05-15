@@ -7,7 +7,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "env-cmd --file .env gatsby develop",
-    "deploy:github": "npm run build && node ./scripts/deploy-github",
+    "deploy:github": "env-cmd --file .env npm run build && node ./scripts/deploy-github",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
