@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{RXBc:function(e,t,n){"use strict";n.r(t);var l=n("q1tI"),a=n.n(l),r=(n("Wbzz"),n("Bl7J")),c=n("hIod");t.default=function(){return a.a.createElement("div",null,a.a.createElement(r.a,null,a.a.createElement(c.a,{title:"Home"}),a.a.createElement("h1",null,"Hello."),a.a.createElement("h2",null,"Les trajets en trottinette, ZERO CO2, ZERO bruit, 100% plaisir")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-11398f514862d3b97d3a.js.map
