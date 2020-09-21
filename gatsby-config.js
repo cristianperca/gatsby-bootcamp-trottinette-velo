@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Full-stack React/Gatsby Bootcamp",
-    author: "Cristian Perca",
+    title: "Boulot-trottro-ecolo",
+    author: "Roule Ecolo",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
