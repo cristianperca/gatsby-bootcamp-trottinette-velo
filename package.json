@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "develop": "env-cmd --file .env gatsby develop",
+    "develop": "env-cmd -f .env.development gatsby develop",
     "deploy:github": "env-cmd --file .env npm run build && node ./scripts/deploy-github",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
