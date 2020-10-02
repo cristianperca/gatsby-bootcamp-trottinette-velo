@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"Cuy+":function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),c=(a("Wbzz"),a("Bl7J")),r=a("hIod");t.default=function(){return l.a.createElement("div",null,l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Contact"}),l.a.createElement("h1",null,"Contact page"),l.a.createElement("p",null,"You can reach me here"," ",l.a.createElement("a",{href:"http://www.google.com",target:"_blank"},"Contact me"))))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-e76475aad21a43e351a9.js.map

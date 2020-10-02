@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{RXBc:function(e,n,a){"use strict";a.r(n);var l=a("q1tI"),t=a.n(l),r=(a("Wbzz"),a("Bl7J")),c=a("hIod");n.default=function(){return t.a.createElement("div",null,t.a.createElement(r.a,null,t.a.createElement(c.a,{title:"Home"}),t.a.createElement("h1",null,"Hello."),t.a.createElement("h2",null,"I am Cristian, an aspiring fullstack developer")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-0ca24bde435d3b9fcda3.js.map
